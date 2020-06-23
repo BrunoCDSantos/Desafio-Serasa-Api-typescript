@@ -1,6 +1,6 @@
 # Desafio-Serasa-Api-typescript
 
-Projeto feito com typescript para registro de empresas e colocar suas contas e nele se da um score da empresa.
+Projeto feito com typescript para registro de empresas, colocar suas contas e por meio deles nele se dar uma pontuação para a empresa.
 
 ## Bibliotecas utilizadas.
 
